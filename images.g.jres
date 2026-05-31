@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAD/3w0AAAAAAP3/3Q0A0N3d/V9f3d3dVVXdX1VVItVV5dD9VVUiVVXuAN1V/1VVVVUA0F3xVVVV7gAAXVU1U1VVAABdVTVTVVUA0F3/VVVVVQDdVfFVVVXu0P1VVSJVVVXdX1VVItVV7v1fX93dXVXl/f/d/f9VVd3/393////VDQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pikachu"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP////8AAAD/Iv8R8Q8A8C8i/xERDwD/IiL/ERH/AP8iIv8REfEALyLy/x8R8QAvIvIRHxHxAC8i8hEfEfEALyLy/x8R8QD/IiL/ERHxAPAiIv8REf8A8C8i/xERDwAA/yL/EfEPAADw/////wAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pokeball"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
